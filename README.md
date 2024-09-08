@@ -1,1 +1,0 @@
-# 09011282328032_Tugas-Data-Mining-2

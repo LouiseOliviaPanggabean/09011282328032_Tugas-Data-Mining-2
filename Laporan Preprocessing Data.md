@@ -1,0 +1,6 @@
+## Nama : Louise Olivia Panggabean
+## NIM : 09011282328032
+## Kelas : SK3B
+
+# LAPORAN HASIL ANALISIS PREPROCESSING DATA
+
